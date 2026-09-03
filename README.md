@@ -1,7 +1,11 @@
 # ReTalk (리톡) — PC 카카오톡 대화 복원 & 내 컴퓨터 평생 보관 도구
 
 <p align="center">
-  <img src="./assets/retalk-logo.png" alt="ReTalk Logo" width="260" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/retalk-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/retalk-logo-light.png">
+    <img alt="ReTalk Logo" src="./assets/retalk-logo-light.png" width="220">
+  </picture>
 </p>
 
 <p align="center">

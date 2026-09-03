@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/retalk-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/retalk-logo-light.png">
-    <img alt="ReTalk Logo" src="./assets/retalk-logo-light.png" width="220">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/retalk-logo-stacked-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/retalk-logo-stacked-light.png">
+    <img alt="ReTalk Logo" src="./assets/retalk-logo-stacked-light.png" width="140">
   </picture>
 </p>
 
